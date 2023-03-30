@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Rond_L4" data-name="Rond L4" transform="translate(247 -312.395)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="15" cy="15" r="15" transform="translate(-247 312.395)" fill="#fff"/>
+    <path id="Ellipse_4_-_Contour" data-name="Ellipse 4 - Contour" d="M15,5A10,10,0,1,0,25,15,10.011,10.011,0,0,0,15,5m0-5A15,15,0,1,1,0,15,15,15,0,0,1,15,0Z" transform="translate(-247 312.395)" fill="#af3183"/>
+    <text id="_4" data-name="4" transform="translate(-238 334.395)" fill="#af3183" font-size="20" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="0">4</tspan></text>
+    <path id="_4_-_Contour" data-name="4 - Contour" d="M9.14.5H6.22V-2.62H.18v-2.6L6.042-14.66h3.1V-5.3h2v2.68h-2ZM7.22-.5h.92V-3.62h2V-4.3h-2v-9.36H6.6L1.18-4.937V-3.62H7.22Zm0-3.8H1.469L6.4-12.38H7.22Zm-3.969-1H6.22v-4.866Z" transform="translate(-238 334.395)" fill="rgba(0,0,0,0)"/>
+  </g>
+</svg>
